@@ -64,8 +64,7 @@ img  {
 
   .link {
     text-decoration: none;
-    display: inline-block;
-     
+    
   }
   
 
@@ -353,17 +352,16 @@ img  {
     justify-content: center;
   }
 
-  .team-member-container {
+  .team-member-list {
     background-color: var(--background-color);
     display: inline-flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     border-radius: 0px 0px 4px 4px;
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);  
     flex-basis: calc((100% - 72px) / 4);
   }
-
 
 .team-member-header {
     color: var(--services-font-color);
@@ -515,12 +513,6 @@ img  {
 }
  
  .footer-logo {
-    font-family: var(--header-font-family);
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17 ;
-    letter-spacing:  0.54px;
-    text-transform: uppercase;
-    color: var(--buttons-font);
-    margin-bottom: 16px;
+  margin-bottom: 16px;
+  display: inline-block;
  }
