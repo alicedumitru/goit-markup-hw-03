@@ -223,7 +223,7 @@ img  {
     }
     
 
-    .first-section-list {
+  .first-section-list {
       list-style-type: none;
       display: flex;
       align-items: center;
@@ -258,11 +258,11 @@ img  {
   }
 
 .about-us-description  {
- color: var(--fonts-color);
+  color: var(--fonts-color);
   
- font-size: 16px;
- line-height: 150%;
- letter-spacing: 0.32px;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.32px;
    
 }
 
@@ -410,6 +410,10 @@ img  {
     padding: 100px 0; 
     
      }
+
+.logo {
+  display: inline-block;
+}
 
 .logo-footer {
   margin-bottom: 16px;
