@@ -235,7 +235,8 @@ img  {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    width: calc(100%-72px) / 4;  
+    width: calc(100%-72px) / 4; 
+    flex-basis: calc((100%-72px) / 4); 
      
 }
 
@@ -359,6 +360,7 @@ img  {
     align-items: center;
     border-radius: 0px 0px 4px 4px;
     width: calc(100%-72px) / 4;
+    flex-basis: calc((100%-72px) / 4);
      
   }
 
