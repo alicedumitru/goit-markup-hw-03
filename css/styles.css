@@ -95,22 +95,22 @@ img  {
   
   }
 
-.address-container{
+.address-container {
     font-style: normal;
   }
 
-.address-contact-section{
+.address-contact-section {
     font-style: normal; 
   }
 
-.address-list{
+.address-list {
     list-style-type: none;
     display: flex;
     gap: 40px;
     
   }
 
-.address-link{
+.address-link {
      color: var(--fonts-color);
      font-size: 16px;
      font-weight: 400;
@@ -160,7 +160,7 @@ img  {
 
 /* hero content section */
 
-.hero-image-section-container{
+.hero-image-section-container {
     background-color: var(--services-font-color);
     padding: 188px 0;
 }
@@ -176,7 +176,7 @@ img  {
    
 }
 
-.order-service-btn{
+.order-service-btn {
      cursor: pointer;
      font-family: "Roboto", sans-serif;
      font-weight: 500;
@@ -231,7 +231,7 @@ img  {
       gap: 24px;
 }
 
-.qualities-container-list{
+.qualities-container-list {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -242,12 +242,12 @@ img  {
 
 
 
-.sec-two-image-container{
+.sec-two-image-container {
   width: calc(100%-48px) / 3;
 
  }
 
-.about-us-header  {
+.about-us-header {
    font-family: var(--text-font-family);
    font-weight: 500;
    font-size: 20px;
@@ -258,7 +258,7 @@ img  {
 
   }
 
-.about-us-description  {
+.about-us-description {
   color: var(--fonts-color);
   
   font-size: 16px;
@@ -267,14 +267,14 @@ img  {
    
 }
 
-.first-section{
+.first-section {
   padding: 120px 0;
 
 }
 
 
 
-.first-section-container{
+.first-section-container {
   display: flex;
   flex-shrink: 0;
 }
@@ -374,7 +374,7 @@ img  {
     margin-bottom: 8px;
   }
 
-  .team-member-description{
+  .team-member-description {
     color: var(--fonts-color);
     text-align: center;
     font-size: 16px;
@@ -399,7 +399,7 @@ img  {
   max-width: 264px; 
   }
 
-.footer-container{
+.footer-container {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -407,13 +407,13 @@ img  {
   justify-content: center;
 }
 
-.footer{
+.footer {
     background-color: var(--services-font-color);
     padding: 100px 0; 
     
      }
 
-.logo {
+.logo  {
       margin-bottom: 16px;
       display: inline-block;
 }
@@ -493,7 +493,7 @@ img  {
   letter-spacing: 0.32px;
 }
 
-.section-one-container{
+.section-one-container {
   padding: 96px 0 120px 0;
 }
 
